@@ -1,0 +1,61 @@
+{
+  "total_rows": 50,
+  "duplicates": 0,
+  "missing_data": {
+    "name": 0,
+    "email": 0,
+    "phone": 0,
+    "country": 0
+  },
+  "format_issues": {
+    "invalid_emails": 0,
+    "invalid_phones": 0
+  },
+  "quality_metrics": {
+    "overall_score": 100.0,
+    "total_issues": 0
+  },
+  "recommendations": [],
+  "summary": {},
+  "distributions": {
+    "countries": {
+      "India": 7,
+      "USA": 6,
+      "Canada": 4,
+      "Mexico": 4,
+      "Brazil": 4,
+      "France": 3,
+      "Germany": 3,
+      "United States": 2,
+      "Denmark": 1,
+      "Croatia": 1,
+      "Bulgaria": 1,
+      "Romania": 1,
+      "Hungary": 1,
+      "Czech Republic": 1,
+      "Poland": 1,
+      "Finland": 1,
+      "Spain": 1,
+      "Norway": 1,
+      "Sweden": 1,
+      "Netherlands": 1,
+      "Italy": 1,
+      "Australia": 1,
+      "UK": 1,
+      "GERMANY": 1,
+      "Slovenia": 1
+    },
+    "email_providers": {
+      "Other": 43,
+      "Microsoft": 2,
+      "Google": 1,
+      "Yahoo": 1,
+      "Apple": 1,
+      "ProtonMail": 1,
+      "AOL": 1
+    },
+    "phone_types": {
+      "standard": 50
+    }
+  }
+}
