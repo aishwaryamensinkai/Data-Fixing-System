@@ -253,6 +253,3 @@ To use the web interface:
 ```bash
 python agents/web_agent.py
 ```
-
-Then open your browser and go to [http://localhost:5000](http://localhost:5000).
-Upload a CSV, process it, and view/download results.

@@ -1,9 +1,9 @@
-[2025-07-06 21:49:18] [INFO] Detection Agent Started
-[2025-07-06 21:49:18] [INFO] Found 50 malformed emails
-[2025-07-06 21:49:18] [INFO] Found 0 duplicate rows
-[2025-07-06 21:49:18] [INFO] Found 28 invalid countries
-[2025-07-06 21:49:18] [INFO] Found 50 invalid phone numbers
-[2025-07-06 21:49:18] [INFO] Found 0 missing names
-[2025-07-06 21:49:18] [INFO] Found 50 malformed names
-[2025-07-06 21:49:18] [INFO] Total issues detected: 178
-[2025-07-06 21:49:18] [INFO] Detection Agent Completed
+[2025-07-06 21:57:44] [INFO] Detection Agent Started
+[2025-07-06 21:57:44] [INFO] Found 50 malformed emails
+[2025-07-06 21:57:44] [INFO] Found 0 duplicate rows
+[2025-07-06 21:57:44] [INFO] Found 28 invalid countries
+[2025-07-06 21:57:44] [INFO] Found 50 invalid phone numbers
+[2025-07-06 21:57:44] [INFO] Found 0 missing names
+[2025-07-06 21:57:44] [INFO] Found 50 malformed names
+[2025-07-06 21:57:44] [INFO] Total issues detected: 178
+[2025-07-06 21:57:44] [INFO] Detection Agent Completed
