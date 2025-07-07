@@ -86,8 +86,7 @@ The system handles various data quality issues including:
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd data_fixing_system
+   git clone https://github.com/aishwaryamensinkai/Data-Fixing-System.git
    ```
 
 2. **Install dependencies**:
@@ -111,6 +110,9 @@ python main.py
 
 # Or use the interactive CLI
 python cli.py
+
+# Or use the web interface
+python agents/web_agent.py
 ```
 
 ### CLI Options
